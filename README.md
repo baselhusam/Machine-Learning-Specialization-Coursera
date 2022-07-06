@@ -7,8 +7,9 @@ This repository contains all the Quizzes/Assignments/Labs for "Machine learning"
 
 <br> 
 
-<b> proof of my cerificate of course 1 with grade 100% can be seen [here](https://coursera.org/share/3dead82c47dbfc4e9cb7abba040070a8) </b>
+<b> proof of my cerificate of course 1 with grade 100% can be seen [here](https://coursera.org/share/3dead82c47dbfc4e9cb7abba040070a8) </b> <br>
+<b> proof of my cerificate of course 2 with grade 100% can be seen [here](https://www.coursera.org/account/accomplishments/verify/BJBULMPDF5JG) </b>
 
 <br> 
 
-Course 2 and 3 Coming Soon!
+Course 3 Coming Soon!
